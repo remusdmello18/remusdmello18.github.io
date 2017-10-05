@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 19 Aug 2017 02:36:24 at http://themes.pixelwars.org/bookcard/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://themes.pixelwars.org/bookcard/ -O1 "C:\Users\Remus\Downloads\English-20170817T063230Z-001\bookcard_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:44:26	Error: 	"Not Found" (404) at link themes.pixelwars.org/bookcard/blog-single-with-sidebar.html (from themes.pixelwars.org/bookcard/blog.html)
+02:44:26	Error: 	"Not Found" (404) at link themes.pixelwars.org/bookcard/blog-single-audio-embed.html (from themes.pixelwars.org/bookcard/blog.html)
+02:44:31	Error: 	"Not Found" (404) at link themes.pixelwars.org/bookcard/images/bckg/body-bg/ground.jpg (from themes.pixelwars.org/bookcard/css/skins/body-bg/ground.css)
+02:44:31	Error: 	"Not Found" (404) at link themes.pixelwars.org/bookcard/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from connect.facebook.net/en_US/sdk.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 7 seconds : 190 links scanned, 185 files written (11993173 bytes overall) [11383217 bytes received at 23374 bytes/sec], 904223 bytes transferred using HTTP compression in 88 files, ratio 27%, 4.6 requests per connection
+(4 errors, 0 warnings, 0 messages)
